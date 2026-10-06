@@ -291,3 +291,11 @@ Open `Flappy_Bird_RL_Agent_QLearning_SARSA.ipynb` in [Google Colab](https://cola
 ## License
 
 Academic project — Reichman University, 2025.
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/flappybird-rl-agent/) — Watch original agent recordings and explore the method and source artifacts.
+<!-- demo-lab:end -->
